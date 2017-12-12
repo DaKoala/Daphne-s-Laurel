@@ -1,6 +1,4 @@
 
-
-
 		body{
 			background:black;
 			margin: 0;
@@ -10,8 +8,7 @@
 			/*font-family: 'Dancing Script', cursive;*/
 			/*font-family: 'Great Vibes', cursive;*/
 			overflow: hidden;
-			cursor: url(../images/cursor1.png);
-
+			cursor: url("../images/cursor1.png"), default;
 		}
 		#words{
 			display: block;
