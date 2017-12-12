@@ -405,7 +405,7 @@ function draw() {
     ) {
         cursor(HAND);
         if (mouseIsPressed) {
-            location.href = './intro.html';
+            location.href = './index.html';
         }
     }
 
